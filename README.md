@@ -84,7 +84,7 @@ Final scores are exported to `wallet_scores.json` for further analysis.
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/Shazbinasaf/Aave-V2-Credit-Scoring.git>
    cd aave-credit-scoring
    ```
 2. Set up virtual environment:
