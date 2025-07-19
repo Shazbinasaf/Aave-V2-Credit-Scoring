@@ -36,7 +36,12 @@ aave-credit-scoring/
 ├── requirements.txt
 └── .venv/
 ```
+## Data Source
+Raw transaction JSON file (87MB):
+https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing
 
+Alternatively (compressed ZIP ~10MB):
+https://drive.google.com/file/d/14ceBCLQ-BTcydDrFJauVA_PKAZ7VtDor/view?usp=sharing
 ---
 
 ## Methodology
